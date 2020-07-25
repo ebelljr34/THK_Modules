@@ -1,0 +1,36 @@
+Module 1: What is code? Reading and reflection. 
+Module 1 Objective: To read and reflect on the nature of code and creation through digitized data and software. 
+Read Article: https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/ 
+Answer the following questions in a .txt file saved as: What_is_code_reflection 
+
+In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max) 
+Initially, the computer is patiently waiting to receive a message from the keyboard when we pressed down a letter on the keyboard. When you hit a letter on the keyboard, the computer receives and deciphers a scancode. After translating, the computer  goes into its memory to find the corresponding letter to the signal that was sent. In this process, it must also find the lines and curves that are needed to transmute the signal to a reality on the screen. 
+
+In your own words, how do computers use input and output to create experiences? (250 words max) 
+Computers wait for inputs to then create some form of output. So using question 1, when we hit a letter on the keyboard, the computer takes time to decipher what was just inputted. Then the computers process the input and produce some output that we enjoy, but this is done character by character, bit by bit. The computer doesn't just produce the output, it goes through a sequence of events. This is how we’re able to enjoy music, films, and all types of imagery on our computer screens. 
+
+Explain why software products are essentially “infinitely reproducible nothings.” (150 words max) 
+Software products are essentially “infinitely reproducible nothings” because there is no margin on them. The combinations and creations are endless, but I also think this goes back to the idea that the software is nothing without the code along with the idea that it could be written by anybody. So my understanding is there is no monopoly to have been had on software products, until they started selling them separately and focusing on the make-up of software in its own right, separate and apart from hardware. 
+
+Explain in your own words how code becomes software. (150 words max) 
+Code is basically lines of texts containing keyboard characters. The computer reads through the code character by character and then turns it into a set of rules and functions that the computer can understand, machine language, to be able to then execute the functions and this resultant is software. 
+
+Explain “algorithms” in your own words. (150 words max) 
+Algorithms are solutions,usually denoting or utilizing the easiest path or way to arrive at a desired outcome.  For example, computers are not innately good at math, but they use algorithms to help calculate an answer because algorithms can be transmuted into functions to be ran. Algorithms hence are greatly attached to efficiency. 
+Explain the DRY principle. (100 words max) 
+The DRY principle stands for Don’t Repeat Yourself and follows the idea of a one and done rule. Thus, you should only name and create things once and the computer should be the one to reiterate. It’s not law, because sometimes programmers have to repeat themselves often. However, it makes sense that it’s a principle because you should try to be efficient whenever the opportunity presents itself.  
+
+In your own words, what is object-oriented programming? (100 words max) 
+Object-oriented programming is a way to name things so that everything is organized and standardized. It utilizes classes which house the corresponding data and methods. This provides structures and makes sure the data isn’t in a disarray. It also helps to make the data reusable and for people on teams to use it as they see accordingly.  
+
+In your own words explain data and how it relates to code. (100 Words max) 
+Data is information and it comes from everywhere, especially with us living in the information age there’s an overwhelming amount of data which led to big data. The relationship between data and code is that programming is supposed to help manage these big sets of data. 
+
+What is a framework? (150 words max) 
+A framework is like a foundation to which programmers can use for their own prerogative. The framework helps to jumpstart the programmer along a certain path, which can also be a downside because it pigeonholes you into a certain way of thinking.  Another  drawback of frameworks are that they are sometimes deemed too easy when used. This can then lend to trying to make it a one stop shop neglecting the fact that they may work for certain goals than others. 
+
+What is debugging? (150 words max) 
+Debugging is identifying and removing errors, called bugs from the software code. When you write the code, the computer doesn’t tell you “hey, this is great!,” instead it lets you know when an error has been detected. So I think this goes back to programmers being able to problem solvers because you are supposed to figure out what “broke” and from experience most of my work came from going back and trying to figure out which line of code was inputted incorrectly and trying to rectify the error. 
+
+Now, with more of an understanding of what code is, why do you want to learn how to code? (500 words max)
+I want to learn to code because I want to solve problems and be able to build and create things from scratch. This article showed me that programming is a whole different world and I am jealous to not be a part. I am interested in learning new ways of thinking and approaches to solving problems. I am also interested in talking directly to the computer as a programmer and telling the computer what to do. This will help me to feel more comfortable with technology and supports my love for knowledge. Learning to code will take me deeper into understanding computers, what they do and what they are capable of and I am looking forward to being able to create and see lines of code become software! Also, I believe learning to code will make me more efficient and I think efficiency is a great skill to develop and have. I’m excited to just learn all the ins and outs and be inducted into the world of programming and use the skills to identify and solve problems.
