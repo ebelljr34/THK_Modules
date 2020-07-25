@@ -1,0 +1,19 @@
+a) What is Git and how is it different than github
+
+Git is a version control tool which is responsible for creating the repositories (repos), which are folders that utilize git to track the changes made to files or folders within a particular folder. Git is also very useful because it can be used to coordinate work amongst teams on a project due to the fact that it tracks progress and changes over time. It's different from github because github is like a GUI for the repositories in a way that it provides a visual space for the code. Github is a site that hosts and saves the code files and can allow other members of a project to collaborate on it from anywhere.  
+
+b) Why use terminal?
+
+We use terminal because we are programmers in training and we must get in the habit of speaking 
+directly to the computer to tell it what to do. The terminal is the way to do just that. It is seen as a faux pas ion the programming world and is also considered to be unprofessional. My experience with learning to use the terminal was difficult at first, but after a while it definitely got easier and I can see how making and manipulating files through terminal is much more efficient. To get more practice, I will try to use the terminal more often in my day to get comfortable writing commands. I'm really excited and I feel cool when I'm in the terminal.  
+
+
+c) Explain 3 benefits version control in your own words ?
+
+One benefit is the branching system, where feature branches allow you to test and develop specific features, while still being able to make other features available to be integrated into the default branch which would be live. This is helpful because usually you would have to make all changes live one time but this feature allows you to choose which specific development you want to make live.
+
+Another benefit is it keeps the history over time as the code changes. 
+
+Third benefit is it allows us to collaborate, allowing the changes from all teammates to merge in real time promoting productivity and efficiency. 
+
+
